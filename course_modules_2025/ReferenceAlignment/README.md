@@ -2,10 +2,10 @@
 
 ## Course Details
 
-* [GCV2024: Genomics and Clinical Virology 2024](https://coursesandconferences.wellcomeconnectingscience.org/event/genomics-and-clinical-virology-2024-20240218/)
-* 18th-23rd February 2024
+* [GCV2025: Genomics and Clinical Virology 2025]([https://coursesandconferences.wellcomeconnectingscience.org/event/genomics-and-clinical-virology-2024-20240218/](https://coursesandconferences.wellcomeconnectingscience.org/event/genomics-and-clinical-virology-20250302/)
+* 2nd-7th March 2025
 * Wellcome Genome Campus, UK
-* [https://github.com/WCSCourses/GCV24](https://github.com/WCSCourses/GCV24)
+* [https://github.com/WCSCourses/GCV_2025](https://github.com/WCSCourses/GCV_2025)
 
 ## Contact Details
 
