@@ -44,8 +44,6 @@ An environment is an isolated space where specific software, dependencies, and l
 
 ⚠️ **Note:** Software will **not work outside the environment.**
 
----
-
 ## **How to Activate the bioinfo_env Environment**
 Before using any software, activate the environment with:
 
@@ -58,6 +56,9 @@ conda activate bioinfo_env
 ```bash
 conda deactivate
 ```
+
+Link to [bioinfo_env.yml](https://github.com/WCSCourses/GCV_2025/blob/main/course_data_2025/bioinfo_env.yml)
+
 
 ## Informatics Set-Up
 We are currently using Oracle VM Virtual Box (https://www.virtualbox.org/) to deliver Informatics, you can find Virtual Box Guides below:
