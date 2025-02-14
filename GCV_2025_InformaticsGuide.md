@@ -37,18 +37,25 @@
 | [Trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic) | 0.39 | De novo |
 
 
-## **To run the software you will have to activate an environment (bioinfo_env), What is an Environment?**
+## **To run the software you will have to activate an environment (bioinformatics_env and samtools_env), What is an Environment?**
 An environment is an isolated space where specific software, dependencies, and libraries are installed. It ensures that all required tools run in a controlled and reproducible way, avoiding conflicts with other system applications.
 
-## For this course, we use the **bioinfo_env** environment.
+## For this course, we use the **bioinformatics_env** and **samtools_env** environment.
 
 ⚠️ **Note:** Software will **not work outside the environment.**
 
-## **How to Activate the bioinfo_env Environment**
+## **How to Activate the bioinformatics_env Environment**
 Before using any software, activate the environment with:
 
 ```bash
-conda activate bioinfo_env
+conda activate bioinformatics_env
+```
+
+## **How to Activate the samtools_env Environment (has Samtools, BWA, Prinseq, and Tablet installed)**
+Before using any software, activate the environment with:
+
+```bash
+conda activate samtools_env
 ```
 
 ## **To deactivate the environment when you're done:**
@@ -57,8 +64,8 @@ conda activate bioinfo_env
 conda deactivate
 ```
 
-Link to [bioinfo_env.yml](https://github.com/WCSCourses/GCV_2025/blob/main/course_data_2025/bioinfo_env.yml)
-
+Link to [bioinformatics_env.yml](https://github.com/WCSCourses/GCV_2025/blob/main/course_data_2025/bioinformatics_env.yml)
+Link to [samtools_env.yml](https://github.com/WCSCourses/GCV_2025/blob/main/course_data_2025/samtools_env.yml)
 
 ## Informatics Set-Up
 We are currently using Oracle VM Virtual Box (https://www.virtualbox.org/) to deliver Informatics, you can find Virtual Box Guides below:
